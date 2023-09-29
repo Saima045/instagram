@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logosize{
+    height: 150px;
+}
+
+.formtextsize{
+    font-size: 13px;
+}
+.fbbg{
+    color:#385185
+}
+.widthformElement{
+    width:92%;
+   // background:red;
+}
